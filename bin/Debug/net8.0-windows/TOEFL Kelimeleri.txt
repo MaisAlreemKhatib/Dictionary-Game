@@ -1,0 +1,5 @@
+abandon	terk etmek
+benefit	fayda
+challenge	zorluk
+contextual	bağlamsal
+estimate	tahmin
